@@ -1,0 +1,22 @@
+{
+  "name": "bbservos",
+  "version": "0.0.1",
+  "description": "BeagleBone servo control using built in PWM timers",
+  "main": "./src/bbservos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omcaree/node-bbservos.git"
+  },
+  "keywords": [
+    "beaglebone",
+    "node.js",
+    "servos",
+    "pwm"
+  ],
+  "author": "Owen McAree",
+  "license": "BSD",
+  "readmeFilename": "Readme.md"
+}
